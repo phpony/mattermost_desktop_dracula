@@ -100,10 +100,10 @@
     }
 
     &:focus, &.isMenuOpen {
-        background-color: #1f1f1f;
+        background-color: #6272a4;
 
         .ServerDropdownButton__badge-count, .ServerDropdownButton__badge-unreads {
-            border-color: #1f1f1f;
+            border-color: #6272a4;
         }
     }
 
