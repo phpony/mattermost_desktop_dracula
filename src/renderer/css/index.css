@@ -54,7 +54,7 @@ body {
 }
 
 .topBar.darkMode>.topBar-bg {
-  background-color: #2e2e2e;
+  background-color: #44475a;
 }
 
 .topBar .three-dot-menu {
@@ -111,10 +111,12 @@ body {
 
 .topBar.darkMode .three-dot-menu {
   color: rgba(243,243,243,0.7);
+  background: #44475a;
 }
 
 .topBar.darkMode .title-bar-btns {
   color: rgba(243,243,243,0.7);
+  background: #44475a;
 }
 
 .topBar .app-title {
