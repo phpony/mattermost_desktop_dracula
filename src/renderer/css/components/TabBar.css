@@ -89,7 +89,7 @@
 }
 
 .TabBar.darkMode>li>a:focus {
-  background-color: #1f1f1f;
+  background-color: #6272a4;
   color: #ddd;
 }
 
@@ -107,7 +107,7 @@
 }
 
 .TabBar.darkMode>li.serverTabItem.active>a, .TabBar.darkMode>li.serverTabItem.dragging>a {
-    background-color: #1f1f1f;
+    background-color: #6272a4;
     color: #ddd;
 }
 
