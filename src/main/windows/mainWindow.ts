@@ -247,7 +247,7 @@ export class MainWindow extends EventEmitter {
 
     private getTitleBarOverlay = () => {
         return {
-            color: Config.darkMode ? '#2e2e2e' : '#efefef',
+            color: Config.darkMode ? '#44475a' : '#efefef',
             symbolColor: Config.darkMode ? '#c1c1c1' : '#474747',
             height: TAB_BAR_HEIGHT,
         };
